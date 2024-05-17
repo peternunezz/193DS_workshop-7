@@ -1,0 +1,10 @@
+---
+title: "peter nunez workshop 7"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+2 * 2
+```
